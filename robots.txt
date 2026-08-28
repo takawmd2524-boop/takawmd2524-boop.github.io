@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://takawmd2524-boop.github.io/sitemap.xml
